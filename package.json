@@ -34,5 +34,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "author": "Rohitth Bandaru <56217397+rohitth-bandaru@users.noreply.github.com>",
+  "license": "MIT"
 }
