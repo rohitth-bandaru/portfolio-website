@@ -1,7 +1,7 @@
 import React from "react";
 
 const CodingProfile = () => {
-  return <div>CodingProfile</div>;
+  return <div class="">CodingProfile</div>;
 };
 
 export default CodingProfile;

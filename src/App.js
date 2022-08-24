@@ -10,29 +10,29 @@ import Navbar from "./components/Navbar";
 
 function App() {
   return (
-    <div className="App" class="font-poppins bg-black text-white">
+    <div className="App" class=" min-w-fit font-poppins bg-black text-white">
       <div>
         <Navbar></Navbar>
       </div>
-      <div>
+      <div id= "about">
         <About></About>
       </div>
-      <div>
+      <div id="education">
         <Education></Education>
       </div>
-      <div>
+      <div id="skillset">
         <Skillset></Skillset>
       </div>
-      <div>
+      <div id="codingprofile">
         <CodingProfile></CodingProfile>
       </div>
-      <div>
+      <div id="resume">
         <Resume></Resume>
       </div>
-      <div>
+      <div id="contact">
         <Contact></Contact>
       </div>
-      <div>
+      <div >
         <SocialMedia></SocialMedia>
       </div>
     </div>

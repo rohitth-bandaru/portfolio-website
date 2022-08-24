@@ -4,19 +4,19 @@ const Navbar = () => {
   return (
     <div class="bg-zinc-900 w-full h-14 text-white flex flex-column justify-around items-center">
       <div>
-        <a href="">ABOUT</a>
+        <a href="#about">ABOUT</a>
       </div>
       <div>
-        <a href="">EDUCATION</a>
+        <a href="#education">EDUCATION</a>
       </div>
       <div>
-        <a href="">CODING PROFILE</a>
+        <a href="#codingprofile">CODING PROFILE</a>
       </div>
       <div>
-        <a href="">SKILL SET</a>
+        <a href="#skillset">SKILL SET</a>
       </div>
       <div>
-        <a href="">CONTACT</a>
+        <a href="#contact">CONTACT</a>
       </div>
     </div>
   );

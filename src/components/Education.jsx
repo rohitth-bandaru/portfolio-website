@@ -4,7 +4,7 @@ const Education = () => {
   return (
     <div class="w-full h-screen  flex flex-row items-center justify-around">
       <div>
-        <img class="w-80 h-80" src={logo} />
+        <img class="w-80 h-80" src={logo} alt="bits" />
       </div>
       <div class="text-2xl grid gap-1">
         <div>
