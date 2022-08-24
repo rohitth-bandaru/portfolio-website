@@ -2,7 +2,7 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <div class="bg-zinc-900 w-full h-14 text-white flex flex-column justify-around items-center">
+    <div class=" fixed top-0 bg-zinc-900 w-full h-14 text-white flex flex-column justify-around items-center">
       <div>
         <a href="#about">ABOUT</a>
       </div>

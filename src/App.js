@@ -4,8 +4,6 @@ import Education from "./components/Education";
 import CodingProfile from "./components/CodingProfile";
 import Contact from "./components/Contact";
 import Skillset from "./components/Skillset";
-import SocialMedia from "./components/SocialMedia";
-import Resume from "./components/Resume";
 import Navbar from "./components/Navbar";
 
 function App() {
@@ -14,7 +12,7 @@ function App() {
       <div>
         <Navbar></Navbar>
       </div>
-      <div id= "about">
+      <div id="about">
         <About></About>
       </div>
       <div id="education">
@@ -26,14 +24,8 @@ function App() {
       <div id="codingprofile">
         <CodingProfile></CodingProfile>
       </div>
-      <div id="resume">
-        <Resume></Resume>
-      </div>
       <div id="contact">
         <Contact></Contact>
-      </div>
-      <div >
-        <SocialMedia></SocialMedia>
       </div>
     </div>
   );
