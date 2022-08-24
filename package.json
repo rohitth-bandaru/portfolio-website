@@ -37,5 +37,10 @@
   },
   "main": "index.js",
   "author": "Rohitth Bandaru <56217397+rohitth-bandaru@users.noreply.github.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.8",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8"
+  }
 }
