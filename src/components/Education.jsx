@@ -10,11 +10,15 @@ const Education = () => {
         <div>
           <div>B.E Mechanical Engineering</div>
           <div class="text-sm">
-            ( Birla Institute of Technology and Science, Hyderabad )
+            Birla Institute of Technology and Science, Hyderabad
           </div>
         </div>
-        <div><span class="text-slate-500">Mechanical Engineer</span> by Degree</div>
-        <div><span class="text-red-500">Software Developer</span> by Passion</div>
+        <div>
+          <span class="text-slate-500">Mechanical Engineer</span> by Degree
+        </div>
+        <div>
+          <span class="text-red-500">Software Developer</span> by Passion
+        </div>
       </div>
     </div>
   );
