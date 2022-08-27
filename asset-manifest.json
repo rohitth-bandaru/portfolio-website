@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f3a4fbaf.css",
-    "main.js": "/static/js/main.99d2228c.js",
+    "main.js": "/static/js/main.5c3159af.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/BITS_Pilani-Logo.svg.png": "/static/media/BITS_Pilani-Logo.svg.3fb372a6b2ae12978078.png",
     "static/media/mongodb-original-wordmark.svg": "/static/media/mongodb-original-wordmark.37c254895b58a4072247e428fc867bbe.svg",
@@ -18,11 +18,11 @@
     "static/media/html5-original.svg": "/static/media/html5-original.8664168d5bc90b1a24396f85aadbf623.svg",
     "index.html": "/index.html",
     "main.f3a4fbaf.css.map": "/static/css/main.f3a4fbaf.css.map",
-    "main.99d2228c.js.map": "/static/js/main.99d2228c.js.map",
+    "main.5c3159af.js.map": "/static/js/main.5c3159af.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f3a4fbaf.css",
-    "static/js/main.99d2228c.js"
+    "static/js/main.5c3159af.js"
   ]
 }
