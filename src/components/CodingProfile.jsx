@@ -13,7 +13,7 @@ const CodingProfile = () => {
           currently rated at <span class="text-red-500">1622</span> in leetcode
         </div>
         <div class="">
-          <span class="text-red-500">1318</span> rating in codeforces
+          <span class="text-red-500">998</span> rating in codeforces
         </div>
         <div></div>
       </div>
