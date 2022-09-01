@@ -33,7 +33,7 @@ const Contact = () => {
       <div class="flex justify-around w-48">
         <a
           class="w-10 h-10"
-          href="mailto:rohitthbandaru@gmail.com"
+          href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=f20190541@hyderabad.bits-pilani.ac.in"
         >
           <img src={mail} alt="gmail logo"/>
         </a>
